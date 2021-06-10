@@ -1,0 +1,11 @@
+ <html>
+ <body>
+  <form class="action" action="index.html" namme ="" method="">
+  <input type="text" value="Enter your name" name="">
+  <input type="file" value="choose a file" name="">
+  <input type="date" value="date of  birth" name="">
+  <input type="radio" value="Female" name="">
+  <input type="range" value="please rate this" name=""
+  </form>
+  </body>
+  </html>
